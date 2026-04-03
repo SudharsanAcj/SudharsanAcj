@@ -1,0 +1,85 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#667eea;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="80" r="60" fill="#00d9ff" opacity="0.1"/>
+  <circle cx="1100" cy="320" r="80" fill="#667eea" opacity="0.1"/>
+  <circle cx="600" cy="50" r="40" fill="#00d9ff" opacity="0.05"/>
+  
+  <!-- Tech stack dots -->
+  <circle cx="150" cy="120" r="8" fill="#00d9ff"/>
+  <circle cx="200" cy="140" r="6" fill="#667eea"/>
+  <circle cx="250" cy="110" r="7" fill="#00d9ff"/>
+  <circle cx="180" cy="180" r="5" fill="#667eea"/>
+  
+  <!-- Main heading -->
+  <text x="600" y="100" font-size="56" font-weight="700" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif">
+    Jayendra Sudharsan
+  </text>
+  
+  <!-- Subtitle with accent -->
+  <rect x="250" y="130" width="700" height="3" fill="url(#accentGradient)"/>
+  
+  <!-- Role and focus areas -->
+  <text x="600" y="170" font-size="24" font-weight="600" text-anchor="middle" fill="#00d9ff" font-family="Arial, sans-serif">
+    Backend Engineer • System Architect
+  </text>
+  
+  <!-- Tech keywords -->
+  <g font-size="14" fill="#ffffff" font-family="Arial, sans-serif" opacity="0.9">
+    <text x="150" y="240" font-weight="500">💳 Payments</text>
+    <text x="330" y="240" font-weight="500">🏗️ Microservices</text>
+    <text x="600" y="240" font-weight="500">☁️ Cloud Architecture</text>
+    <text x="900" y="240" font-weight="500">📊 Fintech</text>
+  </g>
+  
+  <!-- Tech stack badges -->
+  <g font-size="12" font-family="Arial, sans-serif" font-weight="600">
+    <!-- Java badge -->
+    <rect x="80" y="280" width="85" height="32" rx="16" fill="#ED8B00" opacity="0.2" stroke="#ED8B00" stroke-width="1.5"/>
+    <text x="122" y="303" text-anchor="middle" fill="#ED8B00">Java</text>
+    
+    <!-- Spring Boot badge -->
+    <rect x="185" y="280" width="100" height="32" rx="16" fill="#6DB33F" opacity="0.2" stroke="#6DB33F" stroke-width="1.5"/>
+    <text x="235" y="303" text-anchor="middle" fill="#6DB33F">Spring Boot</text>
+    
+    <!-- Docker badge -->
+    <rect x="305" y="280" width="85" height="32" rx="16" fill="#2496ED" opacity="0.2" stroke="#2496ED" stroke-width="1.5"/>
+    <text x="347" y="303" text-anchor="middle" fill="#2496ED">Docker</text>
+    
+    <!-- PostgreSQL badge -->
+    <rect x="410" y="280" width="105" height="32" rx="16" fill="#336791" opacity="0.2" stroke="#336791" stroke-width="1.5"/>
+    <text x="462" y="303" text-anchor="middle" fill="#336791">PostgreSQL</text>
+    
+    <!-- GCP badge -->
+    <rect x="535" y="280" width="85" height="32" rx="16" fill="#4285F4" opacity="0.2" stroke="#4285F4" stroke-width="1.5"/>
+    <text x="577" y="303" text-anchor="middle" fill="#4285F4">GCP</text>
+    
+    <!-- Kubernetes badge -->
+    <rect x="640" y="280" width="110" height="32" rx="16" fill="#326CE5" opacity="0.2" stroke="#326CE5" stroke-width="1.5"/>
+    <text x="695" y="303" text-anchor="middle" fill="#326CE5">Kubernetes</text>
+    
+    <!-- AWS badge -->
+    <rect x="770" y="280" width="75" height="32" rx="16" fill="#FF9900" opacity="0.2" stroke="#FF9900" stroke-width="1.5"/>
+    <text x="807" y="303" text-anchor="middle" fill="#FF9900">AWS</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="360" width="1200" height="2" fill="url(#accentGradient)"/>
+  
+  <!-- Location -->
+  <text x="1100" y="385" font-size="12" fill="#667eea" text-anchor="end" font-family="Arial, sans-serif">
+    📍 Chennai, India
+  </text>
+</svg>
