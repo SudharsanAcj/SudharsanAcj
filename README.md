@@ -188,6 +188,90 @@
 
 ---
 
+## 🏅 Skill Proficiency Matrix
+
+<div align="center">
+
+| Skill | Proficiency | Years |
+|-------|------------|-------|
+| **Java** | ⭐⭐⭐⭐⭐ | 8+ |
+| **Spring Boot** | ⭐⭐⭐⭐⭐ | 6+ |
+| **Microservices** | ⭐⭐⭐⭐⭐ | 5+ |
+| **System Design** | ⭐⭐⭐⭐⭐ | 5+ |
+| **Docker & K8s** | ⭐⭐⭐⭐ | 4+ |
+| **Payment Systems** | ⭐⭐⭐⭐⭐ | 5+ |
+| **SQL & Databases** | ⭐⭐⭐⭐⭐ | 8+ |
+| **GCP** | ⭐⭐⭐⭐ | 3+ |
+
+</div>
+
+---
+
+## 💡 Recent Achievements
+
+<div align="center">
+
+🔥 **2 Day Streak** - Keeping the momentum going!  
+📈 **116 Total Contributions** - Since Apr 7, 2017  
+⭐ **4 Days Longest Streak** - Let's beat it!  
+💻 **17 Active Repositories** - Always building something new
+
+</div>
+
+---
+
+## 🎖️ Contribution Stats
+
+<div align="center">
+
+| Stat | Value |
+|------|-------|
+| 🔗 Total Contributions | 116 |
+| 🔥 Current Streak | 2 days |
+| 🏆 Longest Streak | 4 days |
+| 📅 Contributing Since | Apr 7, 2017 |
+| 💻 Total Repositories | 17 |
+| 📝 Languages Used | 6+ |
+
+</div>
+
+---
+
+## 🎓 Fun Facts About Me
+
+<div align="center">
+
+**Fun Facts** 🎉
+
+- 🏠 **Location**: Chennai, India 🇮🇳
+- 🎓 **Experience**: 8+ years in software engineering
+- 💼 **Current Focus**: Backend & System Architecture
+- 📚 **Learning**: Advanced Microservices Patterns
+- 🏆 **Best Achievement**: Led major platform re-architecture (monolith → microservices)
+- ☕ **Fuel**: Coffee + Passion for clean code
+- 🎯 **Goal**: Build systems that scale & inspire teams
+
+</div>
+
+---
+
+## 🎯 Looking Forward
+
+<div align="center">
+
+I'm always excited to:
+- 💬 Discuss system design & architecture
+- 🤝 Collaborate on fintech & payment projects
+- 📚 Share knowledge & mentor developers
+- 🚀 Build scalable, production-grade systems
+- 🌟 Contribute to open source
+
+**Let's build something amazing together!** 🚀
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
