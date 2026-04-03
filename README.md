@@ -69,21 +69,6 @@
 
 ---
 
-## 📦 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| **[CloudConfig](https://github.com/SudharsanAcj/cloudconfig)** | Centralized configuration management for microservices at scale |
-| **[ConfigServer](https://github.com/SudharsanAcj/ConfigServer)** | Spring Cloud Config Server for production payment platforms |
-| **[ConfigClient](https://github.com/SudharsanAcj/ConfigClient)** | Client-side configuration consumption patterns |
-| **[CloudconfigServer](https://github.com/SudharsanAcj/CloudconfigServer)** | Advanced config server for complex microservices |
-
-</div>
-
----
-
 ## 📊 GitHub Statistics & Activity
 
 <div align="center">
