@@ -1,8 +1,8 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Jayendra+Sudharsan;Building+Scalable+Systems;Payments+%7C+Fintech+%7C+Microservices" alt="Typing SVG" /></div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Jayendra+Sudharsan;Building+Scalable+Systems;Payments+%7C+Fintech+%7C+Microservices" alt="Typing SVG" />
+</div>
 
 ---
-
-![Profile Header](assets/github_header.svg)
 
 <div align="center">
   <img width="100" src="https://media.giphy.com/media/SWoRKslHVtqgMwv0aJ/giphy.gif" alt="Coding" />
@@ -13,8 +13,8 @@
 </p>
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1000&color=667EEA&center=true&width=500&lines=Backend+Engineer+%7C+System+Architect;Payment+Systems+Expert;Microservices+Enthusiast;Cloud+Native+Developer)
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1000&color=667EEA&center=true&width=500&lines=Backend+Engineer+%7C+System+Architect;Payment+Systems+Expert;Microservices+Enthusiast;Cloud+Native+Developer)
 
 </div>
 
@@ -195,7 +195,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayendra-sudharsan-a-c-694b72162/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhaacj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudharsanAcj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
